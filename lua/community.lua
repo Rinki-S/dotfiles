@@ -14,6 +14,8 @@ return {
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.colorscheme.rose-pine" },
+  { import = "astrocommunity.colorscheme.nordic-nvim" },
 
   -- NOTE: code-runner
   { import = "astrocommunity.code-runner.compiler-nvim" },

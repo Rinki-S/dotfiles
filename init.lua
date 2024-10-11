@@ -16,7 +16,7 @@ if not pcall(require, "lazy") then
 end
 
 if vim.g.neovide then
-  vim.o.guifont = "Input Mono Condensed:h14"
+  vim.o.guifont = "Victor Mono:h14"
   --  vim.opt.linespace = 8
   vim.g.neovide_window_blurred = true
   vim.g.neovide_transparency = 0.9
