@@ -26,7 +26,6 @@ require("lazy").setup({
         "tarPlugin",
         "tohtml",
         "zipPlugin",
-        "guess-indent.nvim",
       },
     },
   },
